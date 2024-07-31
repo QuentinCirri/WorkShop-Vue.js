@@ -3,6 +3,8 @@ This workshop provides a step-by-step guide on installing and setting up Vue.js 
 
 First of all before you can install vue.js you need to have on your computer **node.js** whit an up-to-date version. :warning:
 
+Here is the link if you don't have [**node.js**]:https://nodejs.org/en on your computer 
+
 
 ### How to install Vue.js
 
