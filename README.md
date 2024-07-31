@@ -72,11 +72,11 @@ We can go now to the next step. :point_down:
 
 ### How to implement Taildwind
 
+``` npm install -D tailwindcss@latest postcss@latest autoprefixer@latest ``` 
+
 
 <img width="556" alt="vueInstalTailwind" src="https://github.com/user-attachments/assets/4e1efb36-1082-4482-85e7-e0b8de41878e">
 
-
-``` npm install -D tailwindcss@latest postcss@latest autoprefixer@latest ``` 
 
 
 Next, we will generate (tailwind.config.js and postcss.config.js) files.
