@@ -2,4 +2,8 @@
 
 ### How to install Vue.js
 
+### How to implement typescript
+
+### How to implement taildwind
+
 ## Bonus how to implement headless WordPress with vue.js
