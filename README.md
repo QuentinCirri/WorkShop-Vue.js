@@ -15,6 +15,18 @@ You should see this on your screen.
 
 <img width="517" alt="vueCommandOne" src="https://github.com/user-attachments/assets/d4cd758c-fcdd-442d-8837-03af75bf1e74">
 
+After pressing enter you should see this 
+
+<img width="516" alt="vueNameProject" src="https://github.com/user-attachments/assets/c1da549e-7a9f-4573-91da-e54acb2bd9ab">
+
+Here you can Name your project we will name it WorkShop Vue.js
+
+There will be multiple prompt we will say No to all of them Yes even Typescript we will do it ourself. :wink:
+It should loot like this 
+
+<img width="518" alt="vuePrompt" src="https://github.com/user-attachments/assets/a63d308c-d8db-412f-864e-ba38b1811ed4">
+
+
 
 ### How to implement Typescript
 
