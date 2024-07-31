@@ -54,13 +54,18 @@ We can go now to the next step. :point_down:
 
 ### How to implement Typescript
 
-<img width="519" alt="typescriptInstall" src="https://github.com/user-attachments/assets/593d0709-2065-4d31-9a56-35ab66c6166a">
+
 
 You can use two line of code to install TypeScript. **(We will use the first one)**
 
 The first one is to do in your project: 
 
 ``` npm install typescript --save-dev ```
+
+
+<img width="519" alt="typescriptInstall" src="https://github.com/user-attachments/assets/593d0709-2065-4d31-9a56-35ab66c6166a">
+
+
 
 The second one you can use it globaly:  
 
