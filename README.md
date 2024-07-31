@@ -50,8 +50,7 @@ Congratulation, you did it ! :crown: (You should see this)
 
 <img width="959" alt="vueHomePage" src="https://github.com/user-attachments/assets/aaec2544-8db4-4472-995e-ca48181387b8">
 
-
-
+We can go now to the next step. :point_down:
 
 ### How to implement Typescript
 
