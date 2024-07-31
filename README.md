@@ -6,4 +6,4 @@
 
 ### How to implement Taildwind
 
-## Bonus how to implement headless WordPress with vue.js
+## Bonus how to implement headless WordPress with Vue.js
