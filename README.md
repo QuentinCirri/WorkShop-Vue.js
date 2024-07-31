@@ -26,10 +26,11 @@ It should loot like this
 
 <img width="518" alt="vuePrompt" src="https://github.com/user-attachments/assets/a63d308c-d8db-412f-864e-ba38b1811ed4">
 
+Now we use ``` npm install ```
 
 <img width="518" alt="vueNpmInstall" src="https://github.com/user-attachments/assets/d66bbabe-3c84-40a3-bb5a-4422eeda62d7">
 
-
+and when its done we can run ``` npm run dev ```
 
 <img width="518" alt="vueNpmRunDev" src="https://github.com/user-attachments/assets/c20cd66f-6d89-4779-a95c-50541e0cd5e0">
 
