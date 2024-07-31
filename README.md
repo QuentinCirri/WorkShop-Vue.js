@@ -34,7 +34,7 @@ and when its done we can run ``` npm run dev ```
 
 <img width="518" alt="vueNpmRunDev" src="https://github.com/user-attachments/assets/c20cd66f-6d89-4779-a95c-50541e0cd5e0">
 
--local host 
+Now you should see your **localhost** and you can now copy/past it inside your navigateur search bar at the top.
 
 Congratulation you did it ! ( You should see this )
 
