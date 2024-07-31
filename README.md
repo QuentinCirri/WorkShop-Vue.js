@@ -55,10 +55,9 @@ We can go now to the next step. :point_down:
 ### How to implement Typescript
 
 
+You can use two lines of code to install TypeScript. **(We will use the first one)**
 
-You can use two line of code to install TypeScript. **(We will use the first one)**
-
-The first one is to do in your project: 
+The first one is to run in your project directory: 
 
 ``` npm install typescript --save-dev ```
 
@@ -66,16 +65,19 @@ The first one is to do in your project:
 <img width="519" alt="typescriptInstall" src="https://github.com/user-attachments/assets/593d0709-2065-4d31-9a56-35ab66c6166a">
 
 
-
-The second one you can use it globaly:  
+The second one installs TypeScript globaly:  
 
 ``` npm install -g typescript ``` 
 
-See that was easy :grin:
+See, that was easy! :grin:
 
-We can go now to the next step. :point_down:
+We can now move to the next step. :point_down:
 
 ### How to implement Taildwind
+
+
+First, install Tailwind CSS, PostCSS, and Autoprefixer by running:
+
 
 ``` npm install -D tailwindcss@latest postcss@latest autoprefixer@latest ``` 
 
@@ -83,8 +85,7 @@ We can go now to the next step. :point_down:
 <img width="556" alt="vueInstalTailwind" src="https://github.com/user-attachments/assets/4e1efb36-1082-4482-85e7-e0b8de41878e">
 
 
-
-Next, we will generate (tailwind.config.js and postcss.config.js) files.
+Next, generate the `tailwind.config.js` and `postcss.config.js` files by running:
 
 
 ``` npx tailwindcss init -p ``` 
@@ -94,6 +95,6 @@ Next, we will generate (tailwind.config.js and postcss.config.js) files.
 
 
 
-And this should do it, its time to launch your IDE and to open the project. 
+And that's it, it's time to launch your IDE and open the project. 
 
 ## Bonus how to implement headless WordPress with Vue.js
