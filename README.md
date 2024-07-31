@@ -7,6 +7,14 @@ Here is the link if you don't have [**Node.js**](https://nodejs.org/en ) on your
 
 
 ### How to install Vue.js
+The first step will be to open your terminal and enter this line of command. 
+
+``` npm create vue@latest ```
+
+You should see this on your screen.
+
+<img width="517" alt="vueCommandOne" src="https://github.com/user-attachments/assets/d4cd758c-fcdd-442d-8837-03af75bf1e74">
+
 
 ### How to implement Typescript
 
