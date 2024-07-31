@@ -1,5 +1,8 @@
 # WorkShop how to install vue.js and  typescript , taildwind.
 This workshop provides a step-by-step guide on installing and setting up Vue.js with TypeScript and Tailwind CSS for efficient and modern web development.
+First of all before you can install vue.js you need to have on your computer node.js whit an update version. :warning:
+
+
 ### How to install Vue.js
 
 ### How to implement Typescript
