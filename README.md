@@ -27,6 +27,18 @@ It should loot like this
 <img width="518" alt="vuePrompt" src="https://github.com/user-attachments/assets/a63d308c-d8db-412f-864e-ba38b1811ed4">
 
 
+<img width="518" alt="vueNpmInstall" src="https://github.com/user-attachments/assets/d66bbabe-3c84-40a3-bb5a-4422eeda62d7">
+
+
+
+<img width="518" alt="vueNpmRunDev" src="https://github.com/user-attachments/assets/c20cd66f-6d89-4779-a95c-50541e0cd5e0">
+
+-local host 
+
+Congratulation you did it ! ( You should see this )
+
+<img width="959" alt="vueHomePage" src="https://github.com/user-attachments/assets/aaec2544-8db4-4472-995e-ca48181387b8">
+
 
 ### How to implement Typescript
 
