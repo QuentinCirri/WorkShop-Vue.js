@@ -98,3 +98,5 @@ Next, generate the `tailwind.config.js` and `postcss.config.js` files by running
 And that's it, it's time to launch your IDE and open the project. 
 
 ## Bonus how to implement headless WordPress with Vue.js
+
+[Let's go!](bonus.md)
