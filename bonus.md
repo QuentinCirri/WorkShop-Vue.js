@@ -55,6 +55,7 @@ WordPress comes with REST API support out of the box. Ensure it's enabled by nav
 
 Axios is a popular library for making HTTP requests. We will use this for the integration of the WordPress REST APIs to VueJS but you can opt for any other integration method.
 
+`npm install axios`
 
 ### Step 4: Create a Vue Component for WordPress Content
 
@@ -65,7 +66,8 @@ Inside the src/components directory, create a file called **WordPressPosts.vue**
 
 **Edit the Component:**
 
-```<!-- WordPressPosts.vue -->
+```
+<!-- WordPressPosts.vue -->
 <template>
   <div>
     <div v-for="post in posts" :key="post.id">
@@ -108,7 +110,8 @@ export default {
 
 Replace the contents of src/App.vue with:
 
-```<template>
+```
+<template>
   <div id="app">
     <WordPressPosts />
   </div>
