@@ -30,7 +30,8 @@ It should loot like this:
 
 <img width="518" alt="vuePrompt" src="https://github.com/user-attachments/assets/a63d308c-d8db-412f-864e-ba38b1811ed4">
 
-
+Don't forget to be in your directory for your npm install
+```cd "WorkShop Vue.js" ```
 
 Now run ``` npm install ```
 
