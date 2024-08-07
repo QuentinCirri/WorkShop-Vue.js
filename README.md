@@ -24,6 +24,7 @@ After pressing enter, you should see this:
 
 
 Here, you can name your project. We will name it "WorkShop Vue.js".
+For Mac user: "WorkShopVue.js" 
 
 There will be multiple prompts. We will say "No" to all of them, including Typescript, which we will set up ourselves. :wink:
 It should loot like this: 
