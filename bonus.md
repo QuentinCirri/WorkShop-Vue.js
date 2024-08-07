@@ -83,29 +83,22 @@ In the URL you need to change "YOUR-PORT" by the port you use (if you don't have
   </div>
 </template>
 
-<script>
+<script setup>
+import { ref, onMounted } from 'vue';
 import axios from 'axios';
 
-export default {
-  data() {
-    return {
-      posts: [],
-    };
-  },
-  async mounted() {
-    await this.fetchPosts();
-  },
-  methods: {
-    async fetchPosts() {
-      try {
-        const response = await axios.get('http://localhost:YOUR-PORT/NOM-WORDPRESS/wp-json/wp/v2/posts');
-        this.posts = response.data;
-      } catch (error) {
-        console.error('Error fetching posts:', error);
-      }
-    },
-  },
-};
+const posts = ref([]);
+
+async function fetchPosts() {
+  try {
+    const response = await axios.get('http://localhost:YOUR-PORT/NOM-WORDPRESS/wp-json/wp/v2/posts');
+    posts.value = response.data;
+  } catch (error) {
+    console.error('Error fetching posts:', error);
+  }
+}
+
+onMounted(fetchPosts);
 </script>
 ```
 
