@@ -33,6 +33,8 @@ It should loot like this:
 Don't forget to be in your directory for your npm install
 ```cd "WorkShop Vue.js" ```
 
+For Mac user:  ```cd "WorkShopVue.js" ```
+
 Now run ``` npm install ```
 
 <img width="518" alt="vueNpmInstall" src="https://github.com/user-attachments/assets/d66bbabe-3c84-40a3-bb5a-4422eeda62d7">
