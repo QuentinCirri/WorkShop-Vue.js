@@ -66,33 +66,39 @@ Inside the src/components directory, create a file called **WordPressPosts.vue**
 
 **Edit the Component:**
 
+In the URL you need to change "YOUR-PORT" by the port you use and "YOUR-WORDPRESS" by the name of your wordpress site.
+
 ```
 <!-- WordPressPosts.vue -->
 <template>
   <div>
-    <div v-for="post in posts" :key="post.id">
-      <h2>{{ post.title.rendered }}</h2>
-      <div v-html="post.content.rendered"></div>
+    <h1>WordPress Posts</h1>
+    <div v-if="posts.length === 0">Loading...</div>
+    <div v-else>
+      <div v-for="post in posts" :key="post.id">
+        <h2>{{ post.title.rendered }}</h2>
+        <div v-html="post.content.rendered"></div>
+      </div>
     </div>
   </div>
 </template>
 
 <script>
+import axios from 'axios';
+
 export default {
   data() {
     return {
       posts: [],
     };
   },
-  mounted() {
-    this.fetchPosts();
+  async mounted() {
+    await this.fetchPosts();
   },
   methods: {
     async fetchPosts() {
       try {
-        const response = await this.$axios.get(
-          'https://your-wordpress-site/wp-json/wp/v2/posts'
-        );
+        const response = await axios.get('http://localhost:YOUR-PORT/NOM-WORDPRESS/wp-json/wp/v2/posts');
         this.posts = response.data;
       } catch (error) {
         console.error('Error fetching posts:', error);
