@@ -45,6 +45,8 @@ WordPress comes with REST API support out of the box. Ensure it's enabled by nav
 
 `vue create vue-wordpress-app`
 
+"Intall Vue3"
+
 
 **Navigate to the project:**
 
