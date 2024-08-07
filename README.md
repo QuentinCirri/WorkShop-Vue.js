@@ -23,10 +23,8 @@ After pressing enter, you should see this:
 
 
 
-Here, you can name your project. We will name it "WorkShop Vue.js".
+Here, you can name your project. We will name it "WorkShop-Vue.js".
 
-
-For Mac user: "WorkShopVue.js" 
 
 There will be multiple prompts. We will say "No" to all of them, including Typescript, which we will set up ourselves. :wink:
 It should loot like this: 
@@ -34,9 +32,8 @@ It should loot like this:
 <img width="518" alt="vuePrompt" src="https://github.com/user-attachments/assets/a63d308c-d8db-412f-864e-ba38b1811ed4">
 
 Don't forget to be in your directory for your npm install
-```cd "WorkShop Vue.js" ```
+```cd "WorkShop-Vue.js" ```
 
-For Mac user:  ```cd "WorkShopVue.js" ```
 
 Now run ``` npm install ```
 
