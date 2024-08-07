@@ -66,7 +66,7 @@ Inside the src/components directory, create a file called **WordPressPosts.vue**
 
 **Edit the Component:**
 
-In the URL you need to change "YOUR-PORT" by the port you use and "YOUR-WORDPRESS" by the name of your wordpress site.
+In the URL you need to change "YOUR-PORT" by the port you use (if you don't have a port don't add a port just `http://localhost/NOM-WORDPRESS/wp-json/wp/v2/posts` ) and "YOUR-WORDPRESS" by the name of your wordpress site.
 
 ```
 <!-- WordPressPosts.vue -->
