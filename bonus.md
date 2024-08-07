@@ -31,6 +31,8 @@ Now, let’s briefly explore how to implement the headless architecture with Wor
 
 Set up a WordPress instance on your server or use a hosting service. Make sure it's a recent version since REST API support is crucial.
 
+```npm install -g @vue/cli ```
+
 
 **Enable REST API:**
 
