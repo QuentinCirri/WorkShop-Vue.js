@@ -103,3 +103,19 @@ And that's it, it's time to launch your IDE and open the project.
 ## Bonus how to implement headless WordPress with Vue.js
 
 [Let's go!](bonus.md)
+
+## Exercice 
+
+For those who are interested, here’s a little exercise where I ask you to reproduce what is shown in the images below.
+
+![exoWshop](https://github.com/user-attachments/assets/6be7c32a-a777-4500-9885-f3788596b4f7)
+
+
+![exoWshopCount](https://github.com/user-attachments/assets/c31d5cc2-b949-46b3-be8e-dd5832a34586)
+
+
+![exoWshopCountRed](https://github.com/user-attachments/assets/223d52d6-838e-4c10-9d6e-1758f857b620)
+
+
+
+
