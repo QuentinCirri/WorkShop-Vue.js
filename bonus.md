@@ -137,6 +137,9 @@ If you’ve followed all the steps correctly, you should now be able to run the 
 
 Visit **http://localhost:8080** to see your Vue.js app fetching and displaying posts from your WordPress backend.
 
+<img width="1093" alt="Capture d’écran 2024-08-13 à 13 44 45" src="https://github.com/user-attachments/assets/e4dd4b97-62da-480b-9fc9-50bd112483a3">
+
+
 This basic setup can be enhanced with features such as dynamic routing, category filtering, and more. The WordPress REST API documentation [Documentation](https://developer.wordpress.org/rest-api/) is a great resource for exploring content retrieval options. Additionally, consider looking into state management with Vuex for handling more complex state logic.
 
 
